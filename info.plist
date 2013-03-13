@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>opbzarf@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Bret Comnes</string>
+	<key>description</key>
+	<string>New shiny bundle for LaTeX stylings and other ramblings.</string>
+	<key>name</key>
+	<string>LaTeX Section Font Sizes</string>
+	<key>uuid</key>
+	<string>C09480C2-10EC-4076-BC5D-281F96917C6B</string>
+</dict>
+</plist>

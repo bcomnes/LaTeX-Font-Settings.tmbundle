@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Section</string>
+	<key>scope</key>
+	<string>meta.function.section.section.latex</string>
+	<key>settings</key>
+	<dict>
+		<key>fontName</key>
+		<string>Baskerville</string>
+		<key>fontSize</key>
+		<string>2.25em</string>
+	</dict>
+	<key>uuid</key>
+	<string>604E3566-1A42-4B6C-AB10-8CBA33D6A5F6</string>
+</dict>
+</plist>
