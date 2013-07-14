@@ -1,7 +1,7 @@
-LaTeX-Section-Font-Sizes
-========================
+LaTeX-Section-Font-Sizes.tmbundle
+=================================
 
-A simple bundle used to increase the font size of sections in a latex document with Textmate.
+A simple bundle used to increase the visual font size of sections in a latex document within Textmate, similar to how TextMate 2 treates Mardown files.  This increased visual cue helps with identifying the different parts of your document, even when scrolling or jumping around the document rapidly.  
 ![screenshot of bundle effects](https://raw.github.com/bcomnes/LaTeX-Section-Font-Sizes.tmbundle/master/screenshot.png)
 
 ### Credit
