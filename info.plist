@@ -7,9 +7,9 @@
 	<key>contactName</key>
 	<string>Bret Comnes</string>
 	<key>description</key>
-	<string>New shiny bundle for LaTeX stylings and other ramblings.</string>
+	<string>Increases the visual font size of section declarations.</string>
 	<key>name</key>
-	<string>LaTeX Section Font Sizes</string>
+	<string>LaTeX Font Settings</string>
 	<key>uuid</key>
 	<string>C09480C2-10EC-4076-BC5D-281F96917C6B</string>
 </dict>
