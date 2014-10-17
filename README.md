@@ -1,7 +1,7 @@
 # LaTeX-Font-Settings.tmbundle
 
 A simple bundle used to increase the visual font size of sections in a LaTeX document while editing with TextMate, similar to how TextMate 2 treates Mardown headers.  This increased visual cue helps with identifying the different sections your LaTeX document, even when scrolling or jumping around the document rapidly.  
-![screenshot of increased font size of sections in textmate 2](https://raw.githubusercontent.com/bcomnes/LaTeX-Font-Settings.tmbundle/gh-pages/images/screenshot.png)
+![screenshot](https://cdn.rawgit.com/bcomnes/LaTeX-Font-Settings.tmbundle/master/screenshot.png)
 
 ## How to install
 
