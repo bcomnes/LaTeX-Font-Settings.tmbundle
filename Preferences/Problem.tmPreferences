@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Subparagraph</string>
+	<string>Problem</string>
 	<key>scope</key>
-	<string>meta.function.section.subparagraph.latex</string>
+	<string>meta.function.section.problem.latex</string>
 	<key>settings</key>
 	<dict>
 		<key>fontName</key>
 		<string>Baskerville</string>
 		<key>fontSize</key>
-		<string>1.2em</string>
+		<string>2.1em</string>
 	</dict>
 	<key>uuid</key>
-	<string>529C7F08-8013-4A53-B7A1-260745D6A80C</string>
+	<string>53BBD027-D16E-4F84-815E-8A07D84EAB50</string>
 </dict>
 </plist>
