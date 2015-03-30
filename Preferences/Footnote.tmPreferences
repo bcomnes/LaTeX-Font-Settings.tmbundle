@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Footnote</string>
 	<key>scope</key>
-	<string>meta.footnote.latex</string>
+	<string>meta.footnote.latex, support.function.footnote.latex, punctuation.definition.footnote.begin.latex, punctuation.definition.footnote.end.latex</string>
 	<key>settings</key>
 	<dict>
 		<key>background</key>
