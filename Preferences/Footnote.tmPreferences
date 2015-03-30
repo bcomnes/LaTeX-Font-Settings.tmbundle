@@ -8,6 +8,8 @@
 	<string>meta.footnote.latex</string>
 	<key>settings</key>
 	<dict>
+		<key>background</key>
+		<string>#0000000D</string>
 		<key>fontName</key>
 		<string>Baskerville</string>
 		<key>fontSize</key>
