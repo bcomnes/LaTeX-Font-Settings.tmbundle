@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Footnote</string>
+	<key>scope</key>
+	<string>meta.footnote.latex, support.function.footnote.latex, punctuation.definition.footnote.begin.latex, punctuation.definition.footnote.end.latex</string>
+	<key>settings</key>
+	<dict>
+		<key>background</key>
+		<string>#0000000D</string>
+		<key>fontName</key>
+		<string>Baskerville</string>
+		<key>fontSize</key>
+		<string>0.85em</string>
+	</dict>
+	<key>uuid</key>
+	<string>9633203E-748B-467B-B299-BE368BDF42C6</string>
+</dict>
+</plist>
