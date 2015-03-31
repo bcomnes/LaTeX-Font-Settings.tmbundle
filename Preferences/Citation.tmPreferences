@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Citation</string>
+	<key>scope</key>
+	<string>meta.citation.latex</string>
+	<key>settings</key>
+	<dict>
+		<key>background</key>
+		<string>#0000000D</string>
+	</dict>
+	<key>uuid</key>
+	<string>D99AF3A3-C3E4-44C7-9137-C57F663C07CE</string>
+</dict>
+</plist>
